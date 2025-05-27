@@ -1,5 +1,5 @@
 # LEAP_Bootcamp_summer_2025
-Week 2 ML Lectures &amp; Labs
+Week 2:  Machine Learning Lectures &amp; Labs
 
 ## Lesson plan: June 2nd - June 5th 
 
